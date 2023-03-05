@@ -11,6 +11,7 @@
 - [Clonando Repositório](#clonando-repositório)
 - [Instalando Dependências](#instalando-dependências)
 - [Executando Aplicação](#executando-aplicação)
+- [Executando Testes](#executando-testes)
 
 ---
 
@@ -67,5 +68,11 @@
 ## Executando Aplicação
 
 * Utilize a extensão [codeRunner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) no challenges.js e challenges2.js
+
+---
+
+## Executando Testes
+
+* Testes removidos pelo fato de terem sido criados pela [Trybe](https://www.betrybe.com/)
 
 ---
