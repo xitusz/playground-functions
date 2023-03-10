@@ -1,5 +1,5 @@
 # Playground Functions
-[2/11] [Fundamentos do Desenvolvimento Web](https://github.com/G-Alves1/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
+[2/11] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
 
 ---
 
@@ -46,7 +46,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/playground-functions.git
+    git clone git@github.com:xitusz/playground-functions.git
   ```
 
 ---
